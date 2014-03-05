@@ -545,6 +545,7 @@
 					"$(inherited)",
 					"/Volumes/Documents/Dropbox/Github/SMPushNotification/StackMob-v2.2.0",
 				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -562,6 +563,7 @@
 					"$(inherited)",
 					"/Volumes/Documents/Dropbox/Github/SMPushNotification/StackMob-v2.2.0",
 				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
